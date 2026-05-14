@@ -82,8 +82,8 @@ The victim -- a minor girl who reportedly attempted suicide after the relationsh
 
 ## The Prediction -- Full Instagram Post (Universal)
 
-> **You don't need to be a prophet to predict this.**
-> **You just need to have lived in this country long enough.**
+> **You don't need evidence to predict this.**
+> **You just need a memory.**
 >
 > **When a powerful man's son is accused of a crime against a minor:**
 >
