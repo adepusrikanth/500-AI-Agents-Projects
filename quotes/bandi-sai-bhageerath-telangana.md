@@ -80,7 +80,66 @@ The victim -- a minor girl who reportedly attempted suicide after the relationsh
 
 ---
 
-## Prediction Quote -- The Playbook of the Powerful (Instagram)
+## A Data Scientist's Prediction -- The Bhageerath Case (Instagram)
+
+> **As a Data Scientist, I build models to predict outcomes.**
+> **This one needed no algorithm.**
+>
+> **Training data:**
+> **Salman Khan. Sanjay Dutt. Raja Bhaiyya.**
+> **Vikas Dubey. Ashish Mishra.**
+> **Hundreds of high-profile cases. Same pattern. Same result.**
+>
+> **Feature set:**
+> **Father = Union Minister. Charge = POCSO.**
+> **Accused = Absconding. Police = "Searching."**
+>
+> **My prediction for Bandi Sai Bhageerath:**
+>
+> **Day 1-7: Abscond. Confidence: 100%. Actual: True.**
+> **Week 2: Interim bail granted. Confidence: 95%.**
+> **Week 3: Appears before court. "I am wrongly accused." Confidence: 97%.**
+> **Month 3: Media moves on. Confidence: 99%.**
+> **Year 1: Case adjourned 14 times. Confidence: 94%.**
+> **Year 3: Witnesses turn hostile. Confidence: 91%.**
+> **Year 5: Acquitted. "Insufficient evidence." Confidence: 89%.**
+>
+> **Model accuracy on historical data: 100%.**
+> **No model in the world can predict justice for the powerless in India.**
+> **Because that data point doesn't exist.**
+>
+> **#DataScience #Prediction #BandiSaiBhageerath #POCSO #Telangana #JusticeIsAJoke #PowerVsJustice**
+
+---
+
+## Short Data Scientist Instagram Quotes (Pick any)
+
+> **"I trained a model on every high-profile POCSO case in India. Input: powerful father, political connections. Output: acquittal. Accuracy: 100%. No hyperparameter tuning needed. The system is already optimized -- for the powerful."**
+> **#DataScience #POCSO #BandiSaiBhageerath #Telangana**
+
+---
+
+> **"In data science, we call it overfitting when a model only works for one class. Indian justice is overfit to the powerful. It predicts freedom for the rich with 100% accuracy and justice for the poor with 0%. I don't need a GPU to run this model. Just a newspaper."**
+> **#DataScientist #JusticeIsAJoke #Telangana #PowerVsJustice**
+
+---
+
+> **"Correlation: the more powerful the accused, the slower the arrest. R-squared: 0.99. P-value: statistically significant. Sample size: every high-profile case in Indian history. Bandi Sai Bhageerath is not an outlier. He is the trend line."**
+> **#DataScience #Prediction #BandiSaiBhageerath #POCSO**
+
+---
+
+> **"My model doesn't predict whether the powerful will escape justice. It predicts how long the public will stay angry before the algorithm of apathy kicks in. Average: 17 days. Then the case becomes a cold CSV no one opens again."**
+> **#DataScientist #Telangana #POCSO #BandiSaiBhageerath**
+
+---
+
+> **"Null hypothesis: Justice is equal for all in India. After analyzing decades of data -- rejected with 99.99% confidence. The Bhageerath case isn't new evidence. It's just another row in a dataset that proves what the powerless already knew."**
+> **#DataScience #NullHypothesisRejected #POCSO #Telangana**
+
+---
+
+## Previous Prediction Quote -- The Playbook of the Powerful (Instagram)
 
 > **Abscond until bail.**
 > **Appear after bail.**
