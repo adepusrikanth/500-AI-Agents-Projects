@@ -80,66 +80,69 @@ The victim -- a minor girl who reportedly attempted suicide after the relationsh
 
 ---
 
-## A Data Scientist's Prediction -- The Bhageerath Case (Instagram)
+## The Prediction -- Full Instagram Post (Universal)
 
-> **As a Data Scientist, I build models to predict outcomes.**
-> **This one needed no algorithm.**
+> **You don't need to be a prophet to predict this.**
+> **You just need to have lived in this country long enough.**
 >
-> **Training data:**
-> **Salman Khan. Sanjay Dutt. Raja Bhaiyya.**
-> **Vikas Dubey. Ashish Mishra.**
-> **Hundreds of high-profile cases. Same pattern. Same result.**
+> **When a powerful man's son is accused of a crime against a minor:**
 >
-> **Feature set:**
-> **Father = Union Minister. Charge = POCSO.**
-> **Accused = Absconding. Police = "Searching."**
+> **Day 1: FIR filed.**
+> **Day 2: Accused "unreachable."**
+> **Day 3-7: Police "searching." Multiple teams. Zero arrests.**
+> **Week 2: Anticipatory bail filed. Court grants interim protection.**
+> **Week 3: He appears. Suit ironed. Lawyers ready. "I am innocent. I am the real victim here."**
+> **Month 2: Counter-case filed against the victim's family. Now they are defending themselves.**
+> **Month 3: News channels move to the next outrage. Hashtags die.**
+> **Month 6: Hearing adjourned. Then adjourned again. And again.**
+> **Year 1: The girl is still waiting. The accused is living his life.**
+> **Year 3: Witnesses change their statements. Evidence "goes missing."**
+> **Year 5: Acquitted. "Lack of evidence."**
+> **Year 6: He enters politics. Gives speeches about justice.**
 >
-> **My prediction for Bandi Sai Bhageerath:**
+> **This is not a prediction.**
+> **This is a pattern.**
+> **We have seen it unfold the same way, every single time, for decades.**
 >
-> **Day 1-7: Abscond. Confidence: 100%. Actual: True.**
-> **Week 2: Interim bail granted. Confidence: 95%.**
-> **Week 3: Appears before court. "I am wrongly accused." Confidence: 97%.**
-> **Month 3: Media moves on. Confidence: 99%.**
-> **Year 1: Case adjourned 14 times. Confidence: 94%.**
-> **Year 3: Witnesses turn hostile. Confidence: 91%.**
-> **Year 5: Acquitted. "Insufficient evidence." Confidence: 89%.**
+> **The powerful don't fight the system.**
+> **They just wait for the system to forget.**
+> **And it always does.**
 >
-> **Model accuracy on historical data: 100%.**
-> **No model in the world can predict justice for the powerless in India.**
-> **Because that data point doesn't exist.**
+> **But the victim never forgets.**
+> **She just stops being asked.**
 >
-> **#DataScience #Prediction #BandiSaiBhageerath #POCSO #Telangana #JusticeIsAJoke #PowerVsJustice**
+> **#PowerVsJustice #POCSO #Telangana #JusticeDelayed #JusticeDenied #IndianJustice**
 
 ---
 
-## Short Data Scientist Instagram Quotes (Pick any)
+## Short Universal Instagram Quotes (Pick any)
 
-> **"I trained a model on every high-profile POCSO case in India. Input: powerful father, political connections. Output: acquittal. Accuracy: 100%. No hyperparameter tuning needed. The system is already optimized -- for the powerful."**
-> **#DataScience #POCSO #BandiSaiBhageerath #Telangana**
-
----
-
-> **"In data science, we call it overfitting when a model only works for one class. Indian justice is overfit to the powerful. It predicts freedom for the rich with 100% accuracy and justice for the poor with 0%. I don't need a GPU to run this model. Just a newspaper."**
-> **#DataScientist #JusticeIsAJoke #Telangana #PowerVsJustice**
+> **"When a common man is accused, the police arrive before sunrise. When a powerful man's son is accused, the police arrive after the bail does."**
+> **#PowerVsJustice #Telangana #POCSO**
 
 ---
 
-> **"Correlation: the more powerful the accused, the slower the arrest. R-squared: 0.99. P-value: statistically significant. Sample size: every high-profile case in Indian history. Bandi Sai Bhageerath is not an outlier. He is the trend line."**
-> **#DataScience #Prediction #BandiSaiBhageerath #POCSO**
+> **"The pattern never changes: Abscond. Get bail. Claim innocence. File a counter-case. Wait for the world to forget. Get acquitted. The only variable is the name. The outcome is always the same."**
+> **#JusticeDenied #POCSO #Telangana**
 
 ---
 
-> **"My model doesn't predict whether the powerful will escape justice. It predicts how long the public will stay angry before the algorithm of apathy kicks in. Average: 17 days. Then the case becomes a cold CSV no one opens again."**
-> **#DataScientist #Telangana #POCSO #BandiSaiBhageerath**
+> **"In this country, justice has two speeds. For the powerless: immediate. For the powerful: infinite. One gets handcuffs. The other gets hearings. One gets a cell. The other gets a calendar full of adjournments."**
+> **#PowerVsJustice #JusticeDelayed**
 
 ---
 
-> **"Null hypothesis: Justice is equal for all in India. After analyzing decades of data -- rejected with 99.99% confidence. The Bhageerath case isn't new evidence. It's just another row in a dataset that proves what the powerless already knew."**
-> **#DataScience #NullHypothesisRejected #POCSO #Telangana**
+> **"A poor man accused of a crime loses everything before the trial begins. A powerful man accused of a crime gains anticipatory bail before the investigation begins. Same law. Same country. Different India."**
+> **#TwoIndias #POCSO #JusticeDenied**
 
 ---
 
-## Previous Prediction Quote -- The Playbook of the Powerful (Instagram)
+> **"The scariest thing about powerful people escaping justice is not that it happens. It is that we can predict exactly how it will happen -- step by step -- and still can't stop it."**
+> **#PowerVsJustice #JusticeIsAPattern #Telangana**
+
+---
+
+## Previous Prediction Quotes (Instagram)
 
 > **Abscond until bail.**
 > **Appear after bail.**
