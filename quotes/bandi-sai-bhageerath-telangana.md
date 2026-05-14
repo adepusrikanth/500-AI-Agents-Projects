@@ -80,6 +80,62 @@ The victim -- a minor girl who reportedly attempted suicide after the relationsh
 
 ---
 
+## Prediction Quote -- The Playbook of the Powerful (Instagram)
+
+> **Abscond until bail.**
+> **Appear after bail.**
+> **Cry innocence in front of cameras.**
+> **"I am wrongly accused."**
+> **Delay. Adjourn. Repeat.**
+> **Witnesses forget. Evidence disappears.**
+> **Years pass. Case closed.**
+>
+> **This is not a prediction.**
+> **This is the script -- and we have seen it before.**
+>
+> **Salman Khan. Sanjay Dutt. Raja Bhaiyya.**
+> **The powerful don't beat the law.**
+> **They simply outlast it.**
+>
+> **Bandi Sai Bhageerath will follow the same playbook.**
+> **Today he is absconding.**
+> **Tomorrow he will have interim bail.**
+> **Next week he will say he is the real victim.**
+> **Next year, we will have forgotten.**
+>
+> **But the girl won't forget.**
+>
+> **#JusticeIsAJoke #POCSO #Telangana #BandiSaiBhageerath #PowerVsJustice**
+
+---
+
+## Short Instagram Quotes (Pick any)
+
+> **"Step 1: Abscond. Step 2: Get bail. Step 3: 'I'm innocent.' Step 4: Nothing happens. -- Every powerful accused in India, ever."**
+> **#BandiSaiBhageerath #POCSO #Telangana**
+
+---
+
+> **"He will hide until bail arrives. Then he will stand before cameras and say 'I am the victim.' And the system will nod. Because in India, the law doesn't catch the powerful -- it waits for them to be ready."**
+> **#JusticeDelayed #PowerProtects #Telangana**
+
+---
+
+> **"Absconding today. Anticipatory bail tomorrow. 'Wrongly accused' next week. Case forgotten next year. The girl remembers forever. This is Indian justice for the powerful."**
+> **#POCSO #BandiSaiBhageerath #JusticeForHer**
+
+---
+
+> **"The rich don't run from the law. They just walk slow enough for bail to catch up first."**
+> **#Telangana #PowerVsJustice #BandiSaiBhageerath**
+
+---
+
+> **"In India, the accused hides until the outrage dies. Then he returns -- not as a criminal, but as a victim of 'false charges.' And we let him. Every. Single. Time."**
+> **#POCSO #JusticeIsAJoke #Telangana**
+
+---
+
 ## Closing Reflection
 
 > *"A nation's character is measured not by how it treats its powerful, but by whether the powerless can look at the courthouse and still believe in justice."*
