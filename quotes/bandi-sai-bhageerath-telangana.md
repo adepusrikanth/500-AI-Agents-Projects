@@ -1,6 +1,62 @@
-# Quote on the Bandi Sai Bhageerath POCSO Case, Telangana (May 2026)
+# Quotes on the Bandi Sai Bhageerath POCSO Case, Telangana (May 2026)
+
+## Quote 1 -- The Two Speeds of Justice
 
 > **"When the son of a Union Minister evades arrest for days under a POCSO case while ordinary citizens are jailed overnight for far lesser offences, the law does not fail -- it simply reveals whose side it was always on. Power does not bend to justice; it bends justice to itself. In Telangana today, a 17-year-old girl waits for the law to find its courage, while the accused hides behind anticipatory bail, counter-complaints, and the longest arm any criminal can have -- political privilege. The real crime is not just what happened at that farmhouse; it is a system where the powerful write missing-person posters for accountability itself."**
+
+---
+
+## Quote 2 -- The Farmhouse and the Courthouse
+
+> **"A minor girl's cry for justice echoes from Telangana, but the walls of power are soundproof. Bandi Sai Bhageerath walks free while the law walks slow. In this country, a farmhouse can bury a crime, and a surname can bury the investigation. When the accused files a counter-complaint calling the victim's family extortionists, the message to every survivor is chilling: speak up, and you will be the one on trial. This is not justice delayed -- it is justice designed to never arrive."**
+
+---
+
+## Quote 3 -- Missing Posters, Missing Accountability
+
+> **"The people of Telangana pasted 'missing' posters of Bhageerath on the streets. But the real thing missing is not a man -- it is the spine of a system that knows where he is but lacks the will to act. Five days, three cities, zero arrests. The POCSO Act was written to protect children; today it protects nothing but the ego of those who wrote it, because enforcement bows where power stands."**
+
+---
+
+## Quote 4 -- Power Is the Best Lawyer
+
+> **"In India, you don't need the best lawyer -- you need the best father. A Union Minister's surname is bail before arrest, silence before investigation, and doubt before evidence. A poor man accused under POCSO is in handcuffs by morning. A powerful man's son skips summons, crosses state lines, and files anticipatory bail from the comfort of privilege. The law is not blind; it simply closes its eyes when told to."**
+
+---
+
+## Quote 5 -- The Girl Who Was Made Invisible
+
+> **"She was seventeen. She reportedly tried to end her life when the relationship was discarded and her photographs were circulated. And yet, in the national conversation, she remains unnamed, faceless, powerless -- while her accused trends on news channels shielded by his father's title. When the system makes the victim invisible and the accused untouchable, the government has not failed the law -- it has become the failure."**
+
+---
+
+## Quote 6 -- Democracy's Double Standard
+
+> **"Democracy promised that power belongs to the people. But in Telangana today, the people protest outside police stations while the powerful protest inside courtrooms for anticipatory bail. One side carries placards; the other carries political immunity. If the POCSO Act cannot reach the son of a minister, then every child protection law is just ink on paper -- powerful enough to punish the powerless, too weak to touch the powerful."**
+
+---
+
+## Quote 7 -- The Counter-Complaint
+
+> **"He was accused of assaulting a child. His response? He accused the child's family of extortion. In one move, the predator became the plaintiff and the victim became the accused. This is the alchemy of power -- it doesn't just escape justice, it reverses it. When the powerful can turn a POCSO case into a property dispute, the law has been not just broken, but rewritten."**
+
+---
+
+## Quote 8 -- A Letter to Telangana
+
+> **"To every ordinary citizen of Telangana: the next time the government tells you that the law is equal for all, remember May 2026. Remember the farmhouse. Remember the girl. Remember the five days of freedom given to a man accused under one of the strictest laws in this country. And remember this -- the law was never broken; it worked exactly as it was designed to: swiftly for the weak, slowly for the strong, and never at all for those who hold the keys to the machine."**
+
+---
+
+## Quote 9 -- When Power Protects
+
+> **"They say power corrupts. But in the Bhageerath case, power does something worse -- it protects. It protects the accused from arrest. It protects the father's reputation from questions. It protects the system from accountability. The only thing power does not protect is the one person who needed it most: a 17-year-old girl whose only crime was being born without a surname that scares the police."**
+
+---
+
+## Quote 10 -- Silence Is a Verdict
+
+> **"Every hour that Bandi Sai Bhageerath remains unarrested, the government delivers a verdict louder than any court: power is above the law. Every skipped summons is a slap on the face of every survivor who was told to trust the system. Every day of delay tells every child in India that the POCSO Act has a footnote they were never shown -- *terms and conditions apply if the accused has political connections.*"**
 
 ---
 
@@ -24,4 +80,10 @@ The victim -- a minor girl who reportedly attempted suicide after the relationsh
 
 ---
 
-*"A nation's character is measured not by how it treats its powerful, but by whether the powerless can look at the courthouse and still believe in justice."*
+## Closing Reflection
+
+> *"A nation's character is measured not by how it treats its powerful, but by whether the powerless can look at the courthouse and still believe in justice."*
+
+> *"The strongest walls are not built with bricks -- they are built with surnames, political posts, and a justice system that asks 'who is your father?' before it asks 'what did you do?'"*
+
+> *"If justice is truly blind, someone in Telangana handed her a guest list."*
