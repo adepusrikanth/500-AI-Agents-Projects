@@ -13,6 +13,7 @@
 - [Step 2: How to Do a Kegel Correctly](#-step-2-how-to-do-a-kegel-correctly)
 - [Common Mistakes to Avoid](#-common-mistakes-to-avoid)
 - [The 30-Day Plan](#-the-30-day-plan)
+- [Complementary Exercises](#-complementary-exercises-optional-but-recommended)
 - [Progress Tracker](#-progress-tracker)
 - [Tips to Get the Most Out of It](#-tips-to-get-the-most-out-of-it)
 - [When to See a Professional](#-when-to-see-a-professional)
@@ -131,6 +132,36 @@ There are **two types of reps** in this plan:
 | 30 | 15 × 10-sec | 30 | Mix | 🎉 Final day! Plan to maintain 3–5×/week. |
 
 > **After Day 30:** You don't need to keep increasing forever. Maintain your gains with **3–5 sessions per week** of roughly the Week 4 routine. Pelvic floor fitness is a long-term habit, like brushing your teeth.
+
+---
+
+## 🏋️ Complementary Exercises (Optional but Recommended)
+
+Kegels are the core of this plan, but a few supporting moves make the whole system stronger, improve blood flow, and build the stamina and coordination you actually use during intimacy. Add 1–2 of these a few times a week — they fit inside or right after your 10-minute session.
+
+### Hip Raises / Glute Bridges — *Yes, these are effective*
+
+The glute bridge is one of the **best complements to Kegels**. As you bridge up and squeeze your glutes, the pelvic floor naturally co-contracts, so you train it *in coordination* with the glutes, core, and hamstrings — closer to how the body works during sex. Strong glutes and hips also mean better pelvic stability, thrusting power, and endurance, plus improved blood flow to the pelvic region.
+
+**How to do a pelvic-floor-focused bridge:**
+1. Lie on your back, knees bent, feet flat, arms by your sides.
+2. Exhale and lift your hips until your body forms a straight line from knees to shoulders.
+3. **At the top, add a Kegel squeeze** (lift-and-squeeze inward/upward) and hold 3–5 seconds.
+4. Lower slowly, **fully relax** the pelvic floor, and breathe.
+5. Start with **10 reps**, build to 15. Progress to a **single-leg bridge** or **marching bridge** for more challenge.
+
+> ⚠️ Don't clench your glutes so hard that you lose the inner pelvic-floor lift — feel both. Ease off if you have lower-back or hip pain.
+
+### Other helpful supporting moves
+
+| Exercise | Why it helps | Simple dose |
+| -------- | ------------ | ----------- |
+| **Diaphragmatic (belly) breathing** | Teaches the pelvic floor to relax — essential for control and stamina. | 1–2 min, slow breaths |
+| **Squats** | Strengthen glutes/legs and engage the pelvic floor under load; boost testosterone & circulation. | 10–15 reps |
+| **Bird-dog** | Builds deep core + pelvic stability and coordination. | 8 reps/side |
+| **Cardio (brisk walk, jog, cycling)** | Improves cardiovascular health & blood flow — directly linked to erection quality and endurance. | 20–30 min, 3×/week |
+
+> These supplement — they don't replace — the daily Kegels. The pelvic floor isolation work (slow holds + quick flicks) remains the main driver of ejaculatory control.
 
 ---
 
