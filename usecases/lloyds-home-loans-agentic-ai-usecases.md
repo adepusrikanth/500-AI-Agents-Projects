@@ -84,6 +84,8 @@ flowchart LR
 
 # 🟦 Use Case 1 — "Mortgage Journey Accelerator": Agentic Application & Underwriting Co‑pilot
 
+> 📐 **Detailed GCP architecture** (data ingestion → ML → agentic LLM → production → observability/evaluation, with guardrails, PII masking, HITL, LLM cost strategy & business justification): see [`uc1-mortgage-journey-accelerator-gcp-architecture.md`](uc1-mortgage-journey-accelerator-gcp-architecture.md).
+
 ### 1.1 Current Business Problem
 
 Today a home‑loan application at a large UK lender is a multi‑week, stop‑start journey:
