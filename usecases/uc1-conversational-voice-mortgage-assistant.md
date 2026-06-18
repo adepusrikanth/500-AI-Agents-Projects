@@ -3,6 +3,8 @@
 > **Companion to:** [`lloyds-home-loans-agentic-ai-usecases.md`](lloyds-home-loans-agentic-ai-usecases.md) · [`uc1-mortgage-journey-accelerator-gcp-architecture.md`](uc1-mortgage-journey-accelerator-gcp-architecture.md)
 > **Source product context:** Lloyds Bank Mortgages (`lloydsbank.com/mortgages.html`) — First‑Time Buyer, Home Mover, Remortgage, Buy‑to‑Let, plus tools (Borrowing/Affordability calculators, Agreement in Principle).
 > **What this adds to Use Case 1:** a **consumer‑facing, multi‑channel conversational + voice (speech) assistant** that sits *in front of* the Mortgage Journey Accelerator. The assistant educates, guides, qualifies, and warms up every type of mortgage customer; when the customer is ready, it hands off — with full context — into the agentic underwriting pipeline from Use Case 1.
+>
+> 🛠️ **Build‑ready execution plan & Low‑Level Design** (GCP‑only, Python backend / Node.js UI, Cortex API LLM gateway, Pegasus evaluation, Dynatrace observability, Harness CI/CD, full repo file structure): see [`uc1-voice-mortgage-assistant-execution-plan-lld.md`](uc1-voice-mortgage-assistant-execution-plan-lld.md).
 
 ---
 
