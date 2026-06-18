@@ -85,6 +85,8 @@ flowchart LR
 # 🟦 Use Case 1 — "Mortgage Journey Accelerator": Agentic Application & Underwriting Co‑pilot
 
 > 📐 **Detailed GCP architecture** (data ingestion → ML → agentic LLM → production → observability/evaluation, with guardrails, PII masking, HITL, LLM cost strategy & business justification): see [`uc1-mortgage-journey-accelerator-gcp-architecture.md`](uc1-mortgage-journey-accelerator-gcp-architecture.md).
+>
+> 🎙️ **Consumer‑facing conversational & voice assistant** ("Lloyds Home Coach") that fronts this use case for first‑time buyers, movers, remortgagers & BTL — incl. a competitor/market scan of bank AI mortgage assistants: see [`uc1-conversational-voice-mortgage-assistant.md`](uc1-conversational-voice-mortgage-assistant.md).
 
 ### 1.1 Current Business Problem
 
